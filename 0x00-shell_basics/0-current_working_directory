@@ -1,3 +1,2 @@
-#!bin/bash/
-# 'My first script'
-echo 'pwd'
+#!/bin/bash
+echo pwd
