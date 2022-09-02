@@ -1,2 +1,3 @@
 #!/bin/bash
-chown vincent:staff *R
+chown vincent:staff *
+chmod u+x (filename)
