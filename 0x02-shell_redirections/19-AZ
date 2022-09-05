@@ -1,2 +1,2 @@
 #!/bin/bash
-cat filename | tr 'A and c' 'Z and e' 
+tr 'A' 'Z' | tr 'c' 'e' 
