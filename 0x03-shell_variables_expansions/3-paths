@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(dirCount "$_PATH")
+echo $((`echo $PATH | grep -o ":/" | wc -l`+ 1))
